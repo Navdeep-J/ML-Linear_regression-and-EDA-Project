@@ -11,4 +11,11 @@ Raw - https://raw.githubusercontent.com/ameenmanna8824/DATASETS/main/Salary_Data
 <br>
 I performed EDA (Exploratory Data Analysis) and applied a linear regressor on the aforementionaed dataset.<br>
 To calculate the accuracy of the model, I compared the actual output values and the predicted output values for a set of input data. Also, I calculated the R-squared score of the model (the closer the R-squared score is to 1, the more accurate the model).
+<br><br>
+Concepts used in this project:-
+- Pandas library
+- sklearn library
+- matplotlib library
+- Linear regression concepts
+- EDA concepts
 
