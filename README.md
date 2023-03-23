@@ -14,7 +14,7 @@ To calculate the accuracy of the model, I compared the actual output values and 
 <br><br>
 Concepts used in this project :-
 - Pandas library
-- sklearn library
+- scikit-learn library
 - matplotlib library
 - Linear regression concepts
 - EDA concepts
