@@ -1,6 +1,6 @@
-# ML-Linear_regression-and-EDA-Project
-Machine Learning project using Python
-<br>
+# Salary Analysis and Prediction using ML
+Machine Learning project using Python<hr>
+
 ## Problem Statement :-<br>
 Take any Dataset of your choice, perform EDA (Exploratory Data Analysis) and apply a suitable Classifier, Regressor or Clusterer and calculate the accuracy of the model.
 <br><br>
